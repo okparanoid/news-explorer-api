@@ -17,6 +17,6 @@
 - Запустить в development режиме - `npm run dev`
 - Запустить сборку production-билда - `npm run start`
 
-### [Домен](http://okrelax.students.nomoreparties.co)
+### [Домен](http://oknewsexplorer.students.nomoreparties.co)
 
-### [IP-адрес](http://84.201.131.108)
+### [IP-адрес](http://178.154.231.148)
